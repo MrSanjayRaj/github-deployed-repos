@@ -1,0 +1,21 @@
+{
+  "name": "github-deployed-repos",
+  "version": "1.0.0",
+  "description": "An npm package to display deployed URLs of public GitHub repositories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "github",
+    "repos",
+    "deployed",
+    "url",
+    "npm"
+  ],
+  "author": "Rajpurohit Sanjay Singh",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.7"
+  }
+}
